@@ -7,7 +7,7 @@ async def scrape_m3u8(url):
     async with async_playwright() as p:
         browser = await p.chromium.launch(
             headless=False,
-            executable_path=real_chrome
+            # executable_path=real_chrome
         )
 
         page = await browser.new_page()
@@ -43,7 +43,7 @@ async def scrape_m3u8(url):
 
 # # ---- RUN & PRINT RESULT ----
 # if __name__ == "__main__":
-#     url = "https://footystream.top/alpha/man-city-vs-exeter-city/12441"
+#     url = "https://footystream.top/alpha/atp-tennis/12353"
 
 #     result = asyncio.run(scrape_m3u8(url))
 

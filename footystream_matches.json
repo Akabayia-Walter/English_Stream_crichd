@@ -6,7 +6,7 @@
     "dateTime": "2026-01-12T17:30:00.000Z",
     "homeTeam": "Genoa",
     "awayTeam": "Cagliari",
-    "scrapedAt": "2026-01-12T14:36:37.111420"
+    "scrapedAt": "2026-01-12T17:21:37.481130"
   },
   {
     "doc_id": "juventus-vs-cremonese",
@@ -15,7 +15,7 @@
     "dateTime": "2026-01-12T19:45:00.000Z",
     "homeTeam": "Juventus",
     "awayTeam": "Cremonese",
-    "scrapedAt": "2026-01-12T14:36:37.111420"
+    "scrapedAt": "2026-01-12T17:21:37.481130"
   },
   {
     "doc_id": "liverpool-vs-barnsley",
@@ -24,7 +24,7 @@
     "dateTime": "2026-01-12T19:45:00.000Z",
     "homeTeam": "Liverpool",
     "awayTeam": "Barnsley",
-    "scrapedAt": "2026-01-12T14:36:37.111420"
+    "scrapedAt": "2026-01-12T17:21:37.481130"
   },
   {
     "doc_id": "sevilla-vs-celta-de-vigo",
@@ -33,6 +33,6 @@
     "dateTime": "2026-01-12T20:00:00.000Z",
     "homeTeam": "Sevilla",
     "awayTeam": "Celta de Vigo",
-    "scrapedAt": "2026-01-12T14:36:37.111420"
+    "scrapedAt": "2026-01-12T17:21:37.481130"
   }
 ]
